@@ -4,6 +4,8 @@ package GCloud::CLIWrapper;
   use IPC::Open3;
   use GCloud::CLIWrapper::Result;
 
+  our $VERSION = '0.01';
+
   has gcloud => (is => 'ro', isa => 'Str', default => 'gcloud');
 
   has gcloud_options => (is => 'ro', isa => 'ArrayRef[Str]', lazy => 1, default => sub { [ ] });
