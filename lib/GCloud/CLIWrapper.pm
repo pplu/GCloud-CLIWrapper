@@ -147,9 +147,9 @@ L<https://cloud.google.com/sdk/gcloud/>
  
 =head1 BUGS and SOURCE
  
-The source code is located here: L<>
+The source code is located here: L<https://github.com/pplu/GCloud-CLIWrapper.git>
  
-Please report bugs to: L<>
+Please report bugs to: L<https://github.com/pplu/GCloud-CLIWrapper/issues>
  
 =head1 COPYRIGHT and LICENSE
  
