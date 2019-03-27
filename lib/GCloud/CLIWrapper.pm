@@ -100,8 +100,8 @@ via the CLI command line tool C<gcloud>.
  
 =head2 glcloud
  
-By default initialized to C<gcloud>. It will try to find kubectl in the PATH. You can
-set it explicitly to a specific gcloud excecutable.
+By default initialized to C<gcloud>. It will try to find the C<gcloud> command in the C<PATH>. 
+You can set it explicitly to a specific gcloud excecutable.
  
 =head2 gcloud_options
  
